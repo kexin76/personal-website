@@ -23,7 +23,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -3077,7 +3078,7 @@ input, select, textarea {
 
 					#titleBar .toggle:before {
 						background: #4acaa8;
-						color: #ffffff;
+						color: black;
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
