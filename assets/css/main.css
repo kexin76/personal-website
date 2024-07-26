@@ -3325,3 +3325,21 @@ input, select, textarea {
 	.image-row img {
 		width: 50%; /* Adjust the width as necessary */
 	}
+
+	.resize-email{
+		height: 2.5rem;
+	}
+	.contact-div{
+		display: flex;
+		align-items: center;
+	}
+	.contact-div img{
+		margin-right: 20px;
+	}
+	.contact-div p{
+		margin: 0;
+	}
+	.contact-div a {
+		text-decoration: none;
+		color: inherit; /* To keep the link color same as the text color */
+	}
