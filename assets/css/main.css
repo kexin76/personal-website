@@ -3327,7 +3327,7 @@ input, select, textarea {
 	}
 
 	.resize-email{
-		height: 2.5rem;
+		height: 40px;
 	}
 	.contact-div{
 		display: flex;
