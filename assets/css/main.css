@@ -3315,3 +3315,13 @@ input, select, textarea {
 			}
 
 	}
+	.image-row {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		
+	}
+	
+	.image-row img {
+		width: 50%; /* Adjust the width as necessary */
+	}
